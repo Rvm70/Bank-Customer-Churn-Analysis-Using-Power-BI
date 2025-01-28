@@ -69,7 +69,7 @@ Have suggestions or improvements? Feel free to fork this repository and contribu
 
 #PowerBI #CustomerChurn #DataAnalytics #BusinessIntelligence #Banking
 
-##Dashboard
- [Screenshot (20).png]
+##Dashboard ,
+![Image](https://github.com/user-attachments/assets/20b8830d-5250-43e6-984d-3ca67f6ede0f)
 
 

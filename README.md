@@ -68,3 +68,6 @@ Have suggestions or improvements? Feel free to fork this repository and contribu
 🔗 **Let's discuss customer retention strategies in the comments!**
 
 #PowerBI #CustomerChurn #DataAnalytics #BusinessIntelligence #Banking
+
+##Dashboard
+Screenshot (20).png
